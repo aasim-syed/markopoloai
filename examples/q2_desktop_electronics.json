@@ -1,0 +1,15 @@
+﻿{
+  "query": "Desktop repeat purchasers for electronics",
+  "filters": {
+    "device": "desktop",
+    "categories": [
+      "electronics"
+    ],
+    "flags": {
+      "view_no_cart": false,
+      "cart_no_purchase": false,
+      "repeat_purchasers": true
+    }
+  },
+  "results": []
+}

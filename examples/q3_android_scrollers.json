@@ -1,0 +1,79 @@
+﻿{
+  "query": "Android app users who scroll a lot but don\u2019t purchase",
+  "filters": {
+    "device": "android",
+    "categories": [],
+    "flags": {
+      "view_no_cart": false,
+      "cart_no_purchase": false,
+      "repeat_purchasers": false
+    }
+  },
+  "results": [
+    {
+      "rank": 1,
+      "cluster_id": 63,
+      "size": 5860,
+      "summary_text": "Cluster of 5860 users. Devices: ['android', 'ios', 'desktop']. Top categories: ['books', 'coffee', 'snack', 'grocery', 'fashion']. Conversion=1.00, AddNoBuy=0.00, ViewNoCart=0.00.",
+      "sample_muids": [
+        "0d455d2b-bdcd-4763-9398-fd1e77c368fd",
+        "2fa00dbb-bc4b-4b54-886e-73461c39a842",
+        "87ca91fb-8a66-4841-a23c-b9791761f220",
+        "0078c41a-b1ce-4dfe-a9be-ae9079baaa9d",
+        "af156971-eb34-4a83-88f9-d6a43b56c619"
+      ]
+    },
+    {
+      "rank": 2,
+      "cluster_id": 61,
+      "size": 67722,
+      "summary_text": "Cluster of 67722 users. Devices: ['android', 'ios', 'desktop']. Top categories: ['books', 'coffee', 'snack', 'grocery', 'fashion']. Conversion=1.00, AddNoBuy=0.00, ViewNoCart=0.00.",
+      "sample_muids": [
+        "20fafef4-5eea-4f9d-bc3c-cbee3b1c05c6",
+        "95c2f57b-db6f-4383-81a3-86042b3f7f11",
+        "00e220f9-b97c-4236-84d2-c0bd0fe09cbd",
+        "5c357127-0d5e-47a7-ad1a-91d2c88b2437",
+        "baeb61a9-23cb-46a2-b285-21fcae87e7ff"
+      ]
+    },
+    {
+      "rank": 3,
+      "cluster_id": 60,
+      "size": 61457,
+      "summary_text": "Cluster of 61457 users. Devices: ['android', 'ios', 'desktop']. Top categories: ['books', 'coffee', 'snack', 'grocery', 'fashion']. Conversion=1.00, AddNoBuy=0.00, ViewNoCart=0.00.",
+      "sample_muids": [
+        "f1182aee-64ad-439d-bc45-33e1c1b4e34a",
+        "5dbfebcc-0314-4b0e-8144-11ff6045a14c",
+        "d2169237-ae32-4924-ac9d-5e30fa255a2d",
+        "baabba94-932e-4488-bed4-f67a95b7f431",
+        "b960b585-3683-4eea-81c1-4a896dda5083"
+      ]
+    },
+    {
+      "rank": 4,
+      "cluster_id": 59,
+      "size": 108631,
+      "summary_text": "Cluster of 108631 users. Devices: ['android', 'ios', 'desktop']. Top categories: ['books', 'coffee', 'snack', 'grocery', 'fashion']. Conversion=1.00, AddNoBuy=0.00, ViewNoCart=0.00.",
+      "sample_muids": [
+        "eb37a3a7-633a-474c-8046-1ea20c533c1f",
+        "93e2a283-210f-4e01-b192-dbb8d38840d2",
+        "91af07eb-8566-4c8d-b7b3-356ed8b498c8",
+        "58a0dda0-2324-4bde-8de8-d18ce073bcf2",
+        "9e3a4282-2514-4d42-a186-c76cd3d6d520"
+      ]
+    },
+    {
+      "rank": 5,
+      "cluster_id": 58,
+      "size": 62794,
+      "summary_text": "Cluster of 62794 users. Devices: ['android', 'ios', 'desktop']. Top categories: ['books', 'coffee', 'snack', 'grocery', 'fashion']. Conversion=1.00, AddNoBuy=0.00, ViewNoCart=0.00.",
+      "sample_muids": [
+        "b82966c5-0d3e-4f64-aee1-62c72d09dd23",
+        "03a91b4e-42f3-44c3-bd28-6018e0e54c69",
+        "edc6cbf8-f203-4bab-aced-05088d9c5fcc",
+        "32ad08c4-916f-4f73-885c-4b6c569d53ed",
+        "45fc6de9-3eae-4755-bbfa-7f2e18854010"
+      ]
+    }
+  ]
+}

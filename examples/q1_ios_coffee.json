@@ -1,0 +1,68 @@
+﻿{
+  "query": "iOS users viewing coffee but not adding to cart",
+  "filters": {
+    "device": "ios",
+    "categories": [
+      "coffee"
+    ],
+    "flags": {
+      "view_no_cart": true,
+      "cart_no_purchase": false,
+      "repeat_purchasers": false
+    }
+  },
+  "results": [
+    {
+      "rank": 1,
+      "cluster_id": 18,
+      "size": 24870,
+      "summary_text": "Cluster of 24870 users. Devices: ['ios']. Top categories: ['grocery', 'books', 'coffee', 'snack', 'fashion']. Conversion=0.00, AddNoBuy=0.00, ViewNoCart=1.00.",
+      "sample_muids": [
+        "fc61b6fa-2986-4e49-b872-c47059476dd7",
+        "4ef88079-b23b-45d3-9791-f8b978137957",
+        "1fbadc34-357d-45ce-accd-418bd4e33e08",
+        "771265a9-c0f5-4a66-a461-388d890e2d58",
+        "7a86a06d-b29d-4724-abcd-ea4152f40e44"
+      ]
+    },
+    {
+      "rank": 2,
+      "cluster_id": 56,
+      "size": 70791,
+      "summary_text": "Cluster of 70791 users. Devices: ['ios']. Top categories: ['coffee', 'books', 'snack', 'fashion', 'beauty']. Conversion=0.00, AddNoBuy=0.00, ViewNoCart=1.00.",
+      "sample_muids": [
+        "e3b769bb-e474-42a7-9a18-4f8aaaf3ce49",
+        "d329034a-b5b3-4a2e-b407-317adf2fe949",
+        "ea842993-c191-44f0-b6a8-5f4dbf0da902",
+        "88615d9b-ec05-4af8-81be-97dde4c0387b",
+        "baed01f6-25ae-482e-ab08-d8ee873f4b0f"
+      ]
+    },
+    {
+      "rank": 3,
+      "cluster_id": 25,
+      "size": 50582,
+      "summary_text": "Cluster of 50582 users. Devices: ['android', 'ios', 'desktop']. Top categories: ['coffee', 'books', 'snack', 'grocery', 'fashion']. Conversion=0.00, AddNoBuy=0.00, ViewNoCart=1.00.",
+      "sample_muids": [
+        "153de350-7265-4535-bdf2-1c1db5ee8bf5",
+        "be02adc8-217f-4345-a46a-4b237b5769d9",
+        "e10df9c7-93dc-44fa-85d7-85617baf2842",
+        "94a8d304-4377-40e4-8cd3-893b96dfde99",
+        "4f89e4bc-cb06-4fee-9a82-7ae8a40cf0ff"
+      ]
+    },
+    {
+      "rank": 4,
+      "cluster_id": 26,
+      "size": 13770,
+      "summary_text": "Cluster of 13770 users. Devices: ['android', 'ios', 'desktop']. Top categories: ['books', 'coffee', 'snack', 'grocery', 'fashion']. Conversion=1.00, AddNoBuy=0.00, ViewNoCart=1.00.",
+      "sample_muids": [
+        "81315846-c1f3-4b27-8cbb-5e7b4911a275",
+        "cac9f779-6060-4fd0-9847-f10f9e8af4d2",
+        "3eca6d57-5331-4f62-b3a5-6ea0b960543e",
+        "68a6fd16-8717-4d68-a854-16637a442ea9",
+        "bbf0e186-1df2-462a-8755-aaa257d50a55"
+      ]
+    }
+  ]
+}
