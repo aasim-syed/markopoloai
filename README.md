@@ -9,11 +9,11 @@
 
 ## Build pipeline
 1) Features from Parquet (streams all 13×2GB events)
-   - `python 0_build_features.py`
+   - `python build_features.py`
 2) Cluster & summarize
-   - `python 1_cluster_and_summarize.py`
+   - `python cluster_and_summarize.py`
 3) Load tiny graph to Neo4j (clusters + samples + journey stubs)
-   - `python 2_load_neo4j.py`
+   - `python load_neo4j.py`
 
 ## Ask (GraphRAG CLI)
 Examples:
