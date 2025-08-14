@@ -1,4 +1,4 @@
-# 0_build_duckdb.py
+# features.py
 import duckdb, os
 from config import USERS_PATH, EVENTS_PATH, DUCKDB_FILE
 
